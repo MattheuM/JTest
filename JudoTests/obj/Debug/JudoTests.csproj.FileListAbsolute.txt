@@ -1,0 +1,6 @@
+I:\Users\mattheu\Documents\Repos\JudoTests\JudoTests\bin\Debug\JudoTests.exe.config
+I:\Users\mattheu\Documents\Repos\JudoTests\JudoTests\bin\Debug\JudoTests.exe
+I:\Users\mattheu\Documents\Repos\JudoTests\JudoTests\bin\Debug\JudoTests.pdb
+I:\Users\mattheu\Documents\Repos\JudoTests\JudoTests\obj\Debug\JudoTests.csprojResolveAssemblyReference.cache
+I:\Users\mattheu\Documents\Repos\JudoTests\JudoTests\obj\Debug\JudoTests.exe
+I:\Users\mattheu\Documents\Repos\JudoTests\JudoTests\obj\Debug\JudoTests.pdb
